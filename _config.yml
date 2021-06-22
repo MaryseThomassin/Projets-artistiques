@@ -1,6 +1,6 @@
 title: Bonjour! je suis Maryse Thomassin
 description: > # this means to ignore newlines until "baseurl:"
-  Je suis une designer graphique qui veux se diriger vers le web, mais qui dans ses passes-temps effectus des projets artistiques.
+  Je suis une designer graphique qui veux se diriger vers le web, mais qui dans ses passes-temps, effectue des projets artistiques.
 permalink: ':title/'
 baseurl: "/Projets-artistiques" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Maryse Thomassin # add your name
 author-img: maryse_thomassin.jpg # add your photo
-about-author: Je suis une graphiste qui met à jour ses connaissance dans le Web afin de devenir une Designer Web # add description
+about-author: Je suis une graphiste qui met à jour ses connaissances dans le Web afin de devenir une Designer Web # add description
 social-linkedin: https://www.linkedin.com/in/maryse-thomassin-282680107/ # add your Linkedin handle
 
 # Disqus
