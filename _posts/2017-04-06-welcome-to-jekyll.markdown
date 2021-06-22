@@ -6,7 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img:  mystere_nature.jpg # Add image post (optional)
 ---
 ## Toile mystère de la nature | Accent rouge
-
+---
 Cette toile a été conçu surtout afin de décorer ma maison.
 Super pour une tête de foyer !
 
